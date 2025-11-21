@@ -1,5 +1,5 @@
 # <div align="center">Time series forecasting using Deep Learning</div>
-<div align="center"><img src="C:\Users\debas\Desktop\Time-series-forecasting-using-Deep-Learning\output\overview.gif?raw=true"></div>
+<div align="center"><img src="https://github.com/Dev-debasish-09/DL_Time_series_forecasting/blob/main/output/overview.gif?raw=true"></div>
 
 
 
@@ -34,9 +34,9 @@ Max date from train set: 2017-12-31
 
 **Libraries:**  `NumPy` `pandas` `tensorflow` `matplotlib` `sklearn` `seaborn`
 ## Data Exploration:
-<img src="C:\Users\debas\Desktop\Time-series-forecasting-using-Deep-Learning\output\overall daily sales.PNG?raw=true">
-<img src="C:\Users\debas\Desktop\Time-series-forecasting-using-Deep-Learning\output\item daily sales.PNG?raw=true">
-<img src ="C:\Users\debas\Desktop\Time-series-forecasting-using-Deep-Learning\output\store sales.PNG?raw=true">
+<img src="https://github.com/Dev-debasish-09/DL_Time_series_forecasting/blob/main/output/overall%20daily%20sales.PNG?raw=true">
+<img src="https://github.com/Dev-debasish-09/DL_Time_series_forecasting/blob/main/output/item%20daily%20sales.PNG?raw=true">
+<img src ="https://github.com/Dev-debasish-09/DL_Time_series_forecasting/blob/main/output/store%20sales.PNG?raw=true">
 
 ## Model training, evaluation, and prediction:
 ### Multilayer Perceptron:
@@ -56,7 +56,7 @@ Max date from train set: 2017-12-31
 - The benefit of this model is that the model can support very long input sequences that can be read as blocks or subsequences by the CNN model, then pieced together by the LSTM model.
 
 ### Comapring Models:
-<img src ="C:\Users\debas\Desktop\Time-series-forecasting-using-Deep-Learning\output\compare models.PNG?raw=true">
+<img src ="https://github.com/Dev-debasish-09/DL_Time_series_forecasting/blob/main/output/compare%20models.PNG?raw=true">
 <br>
 
 | Model             | Train RMSE             | Validation RMSE                                                                |
@@ -83,11 +83,11 @@ Max date from train set: 2017-12-31
 
 If you have any feedback, please reach out at debasishpradhan1934@gmail.com
 
-
-### 🚀 About Me
-#### Hi, I'm Debasish Pradhan! 👋
-I am an AI Enthusiast and  Data science & ML practitioner
-
+## 👨‍💻 Author
+**Debasish Pradhan**  
+AI Enthusiast | Data Science & Machine Learning Practitioner  
+📧 Email: debasishpradhan1934@gmail.com  
+🔗 GitHub: https://github.com/Dev-debasish-09
 
 
 
