@@ -79,7 +79,7 @@ Time_Series_Forecasting_Comparison/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/Time_Series_Forecasting_Comparison.git
+git clone https://github.com/Dev-debasish-09/DL_Time_series_forecasting.git
 cd Time_Series_Forecasting_Comparison
 ```
 
